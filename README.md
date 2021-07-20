@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zjacky0409.
 - I am a Computer Science Student in CUHK
-- 👀 I’m interested in Gym, Basketball and Developing different software.
+- 👀 I’m interested in Gym, Basketball and Developing different softwares.
 - I am enthusiastic about learning new techniques.
 - 🌱 I’m currently learning Flutter,
 

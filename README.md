@@ -3,7 +3,7 @@
 - I am a Computer Science Student in CUHK
 - 👀 I’m interested in Gym, Basketball and Developing different softwares.
 - I am enthusiastic about learning new techniques.
-- I’m currently learning Flutter. 
+- I am willing to learn different knowledge.
 
 <!---
 zjacky0409/zjacky0409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

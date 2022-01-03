@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zjacky0409.
-- I an a HongKonger.
+- I am a HongKonger.
 - I am a Computer Science Student in CUHK.
 - 👀 I’m interested in Gym, Basketball and Developing different softwares.
 - I am enthusiastic about learning new techniques. I am excited after I master a new skill.

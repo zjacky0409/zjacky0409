@@ -5,7 +5,7 @@
 - I am enthusiastic about learning new techniques. I am excited after I master a new skill.
 - I am willing to learn different knowledge.
 
-- I am building a app call gym tracker. It is a project extends from my school project. 
+- I am building an app call gym tracker. It is a project extends from my school project. 
 
 <!---
 zjacky0409/zjacky0409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
